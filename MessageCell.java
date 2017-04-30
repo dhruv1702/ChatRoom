@@ -1,3 +1,13 @@
+/* CHAT ROOM <MyClass.java>  
+ * EE422C Project 7 submission by  
+ * Dhruv Verma  
+ * dv7229  
+ * 16230
+ * Slip days used: <0> 
+ * Spring 2017 
+ */
+
+
 package assignment7;
 
 import assignment7.ChatMessage.MessageType;

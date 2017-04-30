@@ -1,3 +1,16 @@
+/* CHAT ROOM <MyClass.java>  
+ * EE422C Project 7 submission by  
+ * Dhruv Verma  
+ * dv7229  
+ * 16230
+ * Sagar Krishnaraj	
+ * sk37433
+ * Slip days used: 1 
+ * Spring 2017 
+ */
+
+
+
 package assignment7;
 
 import java.util.Optional;
