@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.111">
+   <children>
+      <BorderPane layoutX="-105.0" layoutY="-100.0" prefHeight="200.0" prefWidth="200.0">
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <top>
+            <ButtonBar prefHeight="40.0" prefWidth="200.0" style="-fx-background-color: blue;" BorderPane.alignment="CENTER">
+              <buttons>
+                <Button mnemonicParsing="false" text="Button" />
+              </buttons>
+            </ButtonBar>
+         </top>
+      </BorderPane>
+   </children>
+</AnchorPane>
